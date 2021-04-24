@@ -9,7 +9,7 @@ I am a full stack web developer with SEO experience. My tech stack includes:
 
 - 🔭 I’m currently working on a variety of projects including a laravel API & VueJS SPA for a project called [caniplaypc.com](https://caniplaypc.com)
 - 💬 Ask me about my tech stack, SEO and digital marketing
-- 📫 How to reach me: [steven@stevenhardy.digital](Email me)
+- 📫 How to reach me: [email me](mailto:steven@stevenhardy.digital)
 
 <!--
 **stevenhardy-digital/stevenhardy-digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
